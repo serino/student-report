@@ -1,0 +1,12 @@
+{
+  "name": "student-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "new-script.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

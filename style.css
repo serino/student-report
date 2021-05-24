@@ -1,0 +1,19 @@
+.nameParagraph {
+  font-family: "Raleway";
+  /* font-weight: bolder; */
+  font-size: 30px;
+  text-transform: uppercase;
+  color: black;
+}
+
+#pDiv {
+  font-family: "Raleway";
+  color: #606060;
+  /* display: inline-block; */
+}
+
+.image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
